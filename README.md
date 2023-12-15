@@ -11,6 +11,12 @@
 
 
 
+Next.js kullanılarak geliştirilmekte olan bir e-ticaret sitesinin çalışma kopyasını içeriyor. Projede halen geliştirme aşamasındayım ve bazı özellikler tamamlanmamış durumda. İlerleyen zamanlarda daha fazla geliştirme yapmayı ve eksik olan özellikleri eklemeyi planlıyorum.
+
+Şu anki halde, temel yapı oluşturulmuş durumda olup, önemli özellikler ve arayüz geliştirmeleri üzerinde çalışılmaktadır. Projeye katkıda bulunmak veya geliştirme sürecini takip etmek isteyenler için bu depoyu paylaşıyorum.
+
+Geliştirme süreci boyunca düzenli olarak güncellemeler yapacak ve eksik olan özellikleri ekleyerek daha etkili bir e-ticaret deneyimi sunmayı hedefliyorum.
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
