@@ -1,3 +1,18 @@
+
+
+![image1](https://github.com/Karaytumut20/e-commerce-nextjs/assets/128383118/59182e77-814c-4f6a-8814-69c0678238e7)
+
+
+![image2](https://github.com/Karaytumut20/e-commerce-nextjs/assets/128383118/47bdc90a-aa77-48e4-b452-098bf1d393ae)
+
+
+
+![image3](https://github.com/Karaytumut20/e-commerce-nextjs/assets/128383118/8e6c4e49-fa90-41f7-8de1-2c946b1e2d26)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
